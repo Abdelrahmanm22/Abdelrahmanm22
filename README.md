@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahmanm22
 - 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning BackEnd
 - 📫 You can reach me via my Email:abdra1396@gmail.com
 
 <!---
