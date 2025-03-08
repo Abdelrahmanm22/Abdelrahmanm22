@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahmanm22
 - 👀 I’m interested in web development and competitive programming
-- 🌱 I’m BackEnd Developer(php laravel)
+- 🌱 I’m BackEnd Developer
 - 📫 You can reach me via my Email:abdelrahmanmohamed2293@gmail.com
 
 <!---
